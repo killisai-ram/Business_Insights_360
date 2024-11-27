@@ -3,7 +3,7 @@ Welcome to Business Insights 360, your comprehensive Power BI dashboard to analy
 
 ## Live Dashboard
 
-Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/37393468-f68e-4c8c-a8ed-c9c226296f51/ReportSection?experience=power-bi).
+Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/37393468-f68e-4c8c-a8ed-c9c226296f51/ReportSectiond98396744020b51007bb?experience=power-bi).
 
 
 - **Project Overview**:
