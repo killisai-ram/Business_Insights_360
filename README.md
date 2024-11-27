@@ -111,3 +111,6 @@ Customer Segmentation:** Use clustering techniques for targeted sales and market
 
 - **Power BI Community:** For valuable resources and tools that made this project possible.
 - **DAX Studio:** For optimization tools that helped reduce file sizes and enhance performance.
+
+
+# Explore, Analyze, Decide! 📊🔍🚀
